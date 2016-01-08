@@ -1,0 +1,5 @@
+= HiveMQ Spring Example Plugin
+
+This HiveMQ plugin demonstrates the use of Spring inside a plugin
+
+For a more detailed explaination see http://www.hivemq.com/blog/using-spring-in-hivemq-plugins
