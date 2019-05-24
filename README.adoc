@@ -3,3 +3,11 @@
 This HiveMQ plugin demonstrates the use of Spring inside a plugin
 
 For a more detailed explaination see http://www.hivemq.com/blog/using-spring-in-hivemq-plugins
+
+= Contributing
+
+If you want to contribute to HiveMQ Spring Example Plugin, see the link:CONTRIBUTING.md[contribution guidelines].
+
+= License
+
+HiveMQ Spring Example Plugin is licensed under the `APACHE LICENSE, VERSION 2.0`. A copy of the license can be found link:LICENSE.txt[here].
